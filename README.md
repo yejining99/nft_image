@@ -1,2 +1,3 @@
 # nft_image
-This code is made for crowing and extracting embedding of nft image
+This code is made for nft recommender system
+
